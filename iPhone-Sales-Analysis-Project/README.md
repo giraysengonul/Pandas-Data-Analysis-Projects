@@ -30,7 +30,8 @@ The analysis was performed using **Pandas**, **NumPy**, and **Plotly** for inter
 - Analyzed how many users rated the highest-rated iPhone models.
 - This helps determine whether high ratings are supported by a large number of users or a limited sample.
 
-📷 **Visualization:** `assets/Page1.png`
+📷 **Visualization:** 
+![Dashboard Screenshot](assets/Page1.png)
 
 ---
 
@@ -38,7 +39,8 @@ The analysis was performed using **Pandas**, **NumPy**, and **Plotly** for inter
 - Determined which iPhone model has received the highest number of reviews.
 - Indicates the most popular or most purchased iPhone model on the platform.
 
-📷 **Visualization:** `assets/Page2.png`
+📷 **Visualization:** 
+![Dashboard Screenshot](assets/Page2.png)
 
 ---
 
@@ -46,7 +48,8 @@ The analysis was performed using **Pandas**, **NumPy**, and **Plotly** for inter
 - Explored how the sale price of iPhones relates to the number of ratings.
 - Helps understand whether more affordable models receive more engagement or if premium models attract more attention.
 
-📷 **Visualization:** `assets/Page3.png`
+📷 **Visualization:** 
+![Dashboard Screenshot](assets/Page3.png)
 
 ---
 
@@ -54,7 +57,8 @@ The analysis was performed using **Pandas**, **NumPy**, and **Plotly** for inter
 - Analyzed the correlation between iPhone prices and total review counts.
 - Provides insights into customer behavior across different price segments.
 
-📷 **Visualization:** `assets/Page4.png`
+📷 **Visualization:** 
+![Dashboard Screenshot](assets/Page4.png)
 
 ---
 
